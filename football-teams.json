@@ -4,53 +4,78 @@
         "name": "Brazil 1970",
         "coach": "Mario Zagallo",
         "country": "Brazil",
-        "keyPlayers": ["Pele", "Gerson", "Tostao", "Rivelino"],
+        "keyPlayers": [
+            "Pele",
+            "Gerson",
+            "Tostao",
+            "Rivelino"
+        ],
         "worldCupStatus": "Champion",
-        "imageUrl": "https://example.com/brazil1970.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Brazil_1970.JPG/1024px-Brazil_1970.JPG"
     },
     {
         "id": 2,
         "name": "Germany 1974",
         "coach": "Helmut Schon",
         "country": "West Germany",
-        "keyPlayers": ["Franz Beckenbauer", "Gerd Muller", "Wolfgang Overath"],
+        "keyPlayers": [
+            "Franz Beckenbauer",
+            "Gerd Muller",
+            "Wolfgang Overath"
+        ],
         "worldCupStatus": "Champion",
-        "imageUrl": "https://example.com/germany1974.jpg"
+        "imageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.75761-15/475893093_18032251520621550_3393911245463830108_n.jpg?stp=dst-jpg_p851x315_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EYUtr32YW4cQ7kNvgH39rbJ&_nc_oc=AdlZNVt8Jo-AYvaV8kZkMEfrfKCT6zZcJFTKE6pet0dgojnfhyypQX0r944v0TuHaic&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ukmQ6CUsGHX0bp8d40dlCQ&oh=00_AYG85AldFN-vCtgTdRmXcVBkNfOukdx-cFkjUMHeZtYySA&oe=67E8D022"
     },
     {
         "id": 3,
         "name": "Netherlands 1974",
         "coach": "Rinus Michels",
         "country": "Netherlands",
-        "keyPlayers": ["Johan Cruyff", "Johan Neeskens", "Rob Rensenbrink"],
+        "keyPlayers": [
+            "Johan Cruyff",
+            "Johan Neeskens",
+            "Rob Rensenbrink"
+        ],
         "worldCupStatus": "Runner-up",
-        "imageUrl": "https://example.com/netherlands1974.jpg"
+        "imageUrl": "https://assets-cms.thescore.com/uploads/image/file/47267/cropped_Netherlands_WC_1974-2.jpg?ts=1484157044"
     },
     {
         "id": 4,
         "name": "Argentina 1986",
         "coach": "Carlos Bilardo",
         "country": "Argentina",
-        "keyPlayers": ["Diego Maradona", "Jorge Valdano", "Jose Luis Brown"],
+        "keyPlayers": [
+            "Diego Maradona",
+            "Jorge Valdano",
+            "Jose Luis Brown"
+        ],
         "worldCupStatus": "Champion",
-        "imageUrl": "https://example.com/argentina1986.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/qrYAAOxy7vJTekEz/s-l1600.jpg"
     },
     {
         "id": 5,
         "name": "Italy 1982",
         "coach": "Enzo Bearzot",
         "country": "Italy",
-        "keyPlayers": ["Paolo Rossi", "Marco Tardelli", "Dino Zoff"],
+        "keyPlayers": [
+            "Paolo Rossi",
+            "Marco Tardelli",
+            "Dino Zoff"
+        ],
         "worldCupStatus": "Champion",
-        "imageUrl": "https://example.com/italy1982.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/SOkAAOSwB-1Y79CD/s-l1600.jpg"
     },
     {
         "id": 6,
         "name": "France 1998",
         "coach": "Aime Jacquet",
         "country": "France",
-        "keyPlayers": ["Zinedine Zidane", "Didier Deschamps", "Emmanuel Petit"],
+        "keyPlayers": [
+            "Zinedine Zidane",
+            "Didier Deschamps",
+            "Emmanuel Petit"
+        ],
         "worldCupStatus": "Champion",
-        "imageUrl": "https://example.com/france1998.jpg"
+        "imageUrl": "https://www.leparisien.fr/resizer/KPkQa0vpPHxNPsP7Lcpd-hba1gE=/1248x782/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/EYWTMHWKTJDPPJT7B4TLXWO4QQ.jpg"
     }
 ]
