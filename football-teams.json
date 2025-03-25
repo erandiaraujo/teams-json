@@ -24,7 +24,7 @@
             "Wolfgang Overath"
         ],
         "worldCupStatus": "Champion",
-        "imageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.75761-15/475893093_18032251520621550_3393911245463830108_n.jpg?stp=dst-jpg_p851x315_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EYUtr32YW4cQ7kNvgH39rbJ&_nc_oc=AdlZNVt8Jo-AYvaV8kZkMEfrfKCT6zZcJFTKE6pet0dgojnfhyypQX0r944v0TuHaic&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ukmQ6CUsGHX0bp8d40dlCQ&oh=00_AYG85AldFN-vCtgTdRmXcVBkNfOukdx-cFkjUMHeZtYySA&oe=67E8D022"
+        "imageUrl": "https://i.guim.co.uk/img/static/sys-images/Football/Pix/pictures/2008/09/19/germany74476.jpg?width=465&dpr=1&s=none&crop=none"
     },
     {
         "id": 3,
@@ -37,23 +37,10 @@
             "Rob Rensenbrink"
         ],
         "worldCupStatus": "Runner-up",
-        "imageUrl": "https://assets-cms.thescore.com/uploads/image/file/47267/cropped_Netherlands_WC_1974-2.jpg?ts=1484157044"
+        "imageUrl": "https://i.ytimg.com/vi/TNujo4MK9Tc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBnbre13Ju1Li0lrOCOLljscL_N4w"
     },
     {
         "id": 4,
-        "name": "Argentina 1986",
-        "coach": "Carlos Bilardo",
-        "country": "Argentina",
-        "keyPlayers": [
-            "Diego Maradona",
-            "Jorge Valdano",
-            "Jose Luis Brown"
-        ],
-        "worldCupStatus": "Champion",
-        "imageUrl": "https://i.ebayimg.com/images/g/qrYAAOxy7vJTekEz/s-l1600.jpg"
-    },
-    {
-        "id": 5,
         "name": "Italy 1982",
         "coach": "Enzo Bearzot",
         "country": "Italy",
@@ -63,7 +50,20 @@
             "Dino Zoff"
         ],
         "worldCupStatus": "Champion",
-        "imageUrl": "https://i.ebayimg.com/images/g/SOkAAOSwB-1Y79CD/s-l1600.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Italia82.JPG/640px-Italia82.JPG"
+    },
+    {
+        "id": 5,
+        "name": "Argentina 1986",
+        "coach": "Carlos Bilardo",
+        "country": "Argentina",
+        "keyPlayers": [
+            "Diego Maradona",
+            "Jorge Valdano",
+            "Jose Luis Brown"
+        ],
+        "worldCupStatus": "Champion",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Argentina_celebrando_copa.jpg/800px-Argentina_celebrando_copa.jpg"
     },
     {
         "id": 6,
